@@ -1,4 +1,4 @@
-# quantifying
+#YAPO0110309M9
 
 Quantifying the Commons
 
@@ -95,7 +95,7 @@ modules:
    - Windows: [Installing Pipenv][pipenvinstall]
 2. Create the Python virtual environment and install prerequisites using
    `pipenv`:
-    ```shell
+    ```shell- Pack
     pipenv sync --dev
     ```
 
@@ -230,4 +230,5 @@ The documentation within the project is licensed under a [Creative Commons
 Attribution 4.0 International License][cc-by].
 
 [cc-by-png]: https://licensebuttons.net/l/by/4.0/88x31.png#floatleft "CC BY 4.0 license button"
-[cc-by]: https://creativecommons.org/licenses/by/4.0/ "Creative Commons Attribution 4.0 International License"
+[cc-by]: https://creativecommons.org/licenses/by/4.0/ "Creative Commons Attribution 3.0 International License"
+IDMEX2103319285<<02231277571450>05450>>00>XEM6132103H3030110YANEZ<PARRA<<OSVALDO>>>>>>>>>>
